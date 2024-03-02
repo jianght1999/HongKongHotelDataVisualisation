@@ -21,6 +21,6 @@ This is a pie chart shows the proportion of different types of hotel. And I chos
 
 **3.Hong Kong maps with numbers of hotels**
 
-I drew the number of the hotel on the map of Hong kong, and the darker the colour, the more hotel. The .shp data was downloaded from http://datav.aliyun.com/portal/school/atlas/area_selector, and was transformed from .json to .shp on https://mapshaper.org/. Thanks to Mr.'诺若落跺拓' on the CSDN!
+I drew the number of the hotel on the map of Hong kong, and the darker the colour, the more hotel. The .shp data was downloaded from http://datav.aliyun.com/portal/school/atlas/area_selector, and was transformed from .json to .shp on https://mapshaper.org/. Latitude and longitude are marked using the DMS marking method. Thanks to Mr.'诺若落跺拓' on the CSDN!
 
 ![map](https://github.com/jianght1999/HongKongHotelDataVisualisation/assets/80138413/fd43ef5c-87d4-4e12-af9f-d6f3cb913bd3)
