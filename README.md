@@ -1,8 +1,9 @@
 # HK_Hotel_Data_Vis
-The dataset was downloaded from a tableau course in bilibili. The name of the uploader is '未名学院'. It describe the detailed information of the hotels in Hong Kong, including their locations, prices and so forth. I'm trying to use the matplotlib, pandas and numpy packages to visualize the data.
+The dataset was downloaded from a tableau course in bilibili. The name of the uploader is '未名学院'. It describes the detailed information of the hotels in Hong Kong, including their locations, prices and so forth. I'm trying to use the matplotlib, pandas and numpy packages to visualize the data.
 
 
-
+**Data description**
+……
 **1.Regional distribution of hotels**
 
 This is a bar chart which shows the regional distribution of hotels in HK.
