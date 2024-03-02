@@ -1,9 +1,15 @@
 # HK_Hotel_Data_Vis
 The dataset was downloaded from a tableau course in bilibili. The name of the uploader is '未名学院'. It describe the detailed information of the hotels in Hong Kong, including their locations, prices and so forth. I'm trying to use the matplotlib, pandas and numpy packages to visualize the data.
 
-1.Regional distribution of hotels
+
+
+**1.Regional distribution of hotels**
 This is a bar chart which shows the regional distribution of hotels in HK.
-![barchart](https://github.com/jianght1999/HongKongHotelDataVisualisation/assets/80138413/6f59c554-816f-4655-8671-cc449571a4b8)
+
+<div style="text-align:center;">
+    <img src="![barchart](https://github.com/jianght1999/HongKongHotelDataVisualisation/assets/80138413/6f59c554-816f-4655-8671-cc449571a4b8)" alt="图片描述">
+</div>
+
 
 
 2.Proportion of different types of hotels
