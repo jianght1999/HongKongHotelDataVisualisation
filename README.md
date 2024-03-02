@@ -3,7 +3,7 @@ The dataset was downloaded from a tableau course in bilibili. The name of the up
 
 1.Regional distribution of hotels
 This is a bar chart which shows the regional distribution of hotels in HK.
-![Uploading barchart.png…]()
+![barchart](https://github.com/jianght1999/HongKongHotelDataVisualisation/assets/80138413/6f59c554-816f-4655-8671-cc449571a4b8)
 
 
 2.Proportion of different types of hotels
