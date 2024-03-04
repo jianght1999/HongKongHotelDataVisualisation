@@ -3,7 +3,10 @@ The dataset was downloaded from a tableau course in bilibili. The name of the up
 
 
 **Data description**
-……
+The data describes the informations about the hotels in Hong Kong. The file includes two sheets, sheet one has 10 columns('名字'(name),'类型'(type),'城市'(city),'地区'(region),'地点'(location),'评分'(rate),'评分人'(number of ratings),'价格'(price),'价格等级'(price level),'热门等级'(popular level)), and sheet two has only 2 columns('地区'(region),'目标均价'(average prices)).
+It's a dataset with simple structure, so I'd like to visualize it to make the imformation more clear.
+
+
 **1.Regional distribution of hotels**
 
 This is a bar chart which shows the regional distribution of hotels in HK.
